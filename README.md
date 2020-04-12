@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Determining market price for an AirBnB listing
 
-You can use the [editor on GitHub](https://github.com/IMSweeney/Udacity_AirBnB_Analysis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Say you are a perspective AirBnB lister with a property in Seattle. You might want to know how you can get the most out of this property. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Q1. What is the largest factor in determining market price for a listing on AirBnB?
 
-### Markdown
+Let's begin by taking a look at what influences the price of a given listing. Here are the top 5 factors:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The largest is **afsdfsafd**. Tragically, an owner can't do much about this.  
 
-```markdown
-Syntax highlighted code block
+## Q2. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IMSweeney/Udacity_AirBnB_Analysis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Q3. What factors could a lister change to increase the value of their listing?
