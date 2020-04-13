@@ -1,3 +1,4 @@
+![SeattleSkyline]oakie-seattle-skyline.jpg
 # Determining market price for an AirBnB listing
 
 Say you are a perspective AirBnB lister with a property in Seattle. You might want to know how you can get the most out of this property. Using the Seattle AirBnB data from [Kaggle](https://www.kaggle.com/airbnb/seattle/data) along with some example code from the [Udactiy Data Scientist](https://www.udacity.com/course/data-scientist-nanodegree--nd025) course we will find the range of market price for a property and how to land on the high side. All of the source code is available in a Jupyter notebook on [github](https://github.com/IMSweeney/Udacity_AirBnB_Analysis).
